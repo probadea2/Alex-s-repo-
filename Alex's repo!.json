@@ -1,0 +1,44 @@
+{
+  "name": "Alex's repo!",
+  "subtitle": "",
+  "description": "Welcome i'm Alex and this is my repo!",
+  "iconURL": "https://i.imgur.com/EvTgIj1.png",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#b6b6b6",
+  "featuredApps": [
+    "com.22kqv2vvfc.2vyd86u410"
+  ],
+  "headerURL": "https://i.imgur.com/znMU1ON.png",
+  "apps": [
+    {
+      "name": "SuperMario64_60FPS",
+      "bundleIdentifier": "com.22kqv2vvfc.2vyd86u410",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "",
+      "localizedDescription": "Super Mario 64 on IOS!\n",
+      "iconURL": "https://i.imgur.com/8KQefyZ.png",
+      "tintColor": "#b6b6b6",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=2d4664df9fe4ca05b082fb182025d8d5",
+          "size": 9200000,
+          "version": "1.2.1",
+          "buildVersion": null,
+          "date": "2026-02-21T07:20:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
