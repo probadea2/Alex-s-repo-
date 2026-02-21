@@ -12,11 +12,67 @@
   "headerURL": "https://i.imgur.com/znMU1ON.png",
   "apps": [
     {
+      "name": "Amethyst",
+      "bundleIdentifier": "com.25w6hluveg.fdqiczf3ot",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/42i20ow.png",
+      "tintColor": "#b6b6b6",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=b615cf0575e42dda26bc810902bbedab",
+          "size": 30100000,
+          "version": "1.0",
+          "buildVersion": null,
+          "date": "2026-02-21T08:11:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Terraria",
+      "bundleIdentifier": "com.sazw73bu16.gmuv4p77m0",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/JnnyVyW.png",
+      "tintColor": "#b6b6b6",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=6bc14c015e863a8ab0de156ab866adc4",
+          "size": 189300000,
+          "version": "4.5.0",
+          "buildVersion": null,
+          "date": "2026-02-21T08:09:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
       "name": "SuperMario64_60FPS",
       "bundleIdentifier": "com.22kqv2vvfc.2vyd86u410",
       "marketplaceID": "",
       "developerName": "Example Developer",
-      "subtitle": "",
+      "subtitle": "An awesome app.",
       "localizedDescription": "Super Mario 64 on IOS!\n",
       "iconURL": "https://i.imgur.com/8KQefyZ.png",
       "tintColor": "#b6b6b6",
@@ -24,12 +80,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=2d4664df9fe4ca05b082fb182025d8d5",
-          "size": 9200000,
           "version": "1.2.1",
-          "buildVersion": null,
           "date": "2026-02-21T07:20:00+02:00",
           "localizedDescription": null,
+          "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=2d4664df9fe4ca05b082fb182025d8d5",
+          "size": 9200000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
